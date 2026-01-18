@@ -43,4 +43,5 @@ def Decode_Morse(Morse):
 
 #Examples
 
-print(Encode_Text("YourText"))
+#   print(Encode_Text("YourText"))
+#   print(Decode_Morse("-.-- --- ..- .-. - . -..- - "))  #remember to put a space at the end!!!
